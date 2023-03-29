@@ -13,7 +13,7 @@ As you scroll down you are able to type and save into said boxes with the save b
 The color of each time block is color-coded to indicate whether it is past, present, or future.<br>
 
 
-[screenshot](./Assets/Images/wks.PNG)
+![screenshot](./Assets/Images/wks.PNG)
 
 ## Credits
 
